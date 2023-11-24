@@ -1,15 +1,15 @@
 <rss version="2.0">
- <channel>
- <title>Games Online</title>
- <description>Website obout games online</description>
- <link>http://nico-a23.github.io/Projectrss/</link>
- <pubDate>Fri, 24 Nov 2023 09:30:02 GMT</pubDate>
- <managingEditor>a23nicolasrf@iessanclemente.net</managingEditor>
- <item>
- <title>Ikariam</title>
- <link>http://nico-a23.github.io/Projectrss/</link>
- <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
- <description>Ikariam</description>
- </item>
- </channel>
+    <channel>
+        <title>Games Online</title>
+        <description>Website obout games online</description>
+        <link>http://nico-a23.github.io/Projectrss/</link>
+        <pubDate>Fri, 24 Nov 2023 09:30:02 GMT</pubDate>
+        <managingEditor>a23nicolasrf@iessanclemente.net</managingEditor>
+        <item>
+            <title>Ikariam</title>
+            <link>http://nico-a23.github.io/Projectrss/</link>
+            <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+            <description>Ikariam</description>
+        </item>
+    </channel>
 </rss>
